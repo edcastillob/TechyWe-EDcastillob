@@ -16,7 +16,7 @@
                                 <Grid item>
                                     <Stack direction="row" spacing={2} alignItems="center">
                                     <Avatar alt="Logo" src="https://raw.githubusercontent.com/edcastillob/Countries-ProyectoIndividual/main/client/src/assets/ec.png"/>
-                                    <Typography>TechyWe Frontend - Edwar Castillo</Typography>
+                                    <Typography>TechyWe </Typography>
                                     </Stack>
                                 </Grid>     
                                 <Grid item>

@@ -17,5 +17,7 @@ De estas maneras ya con las dependencias instaladas
 ## Para Correr la aplicación
  ```bash
 
-$ npm run m:run
+$ npm start 
+$ npm run dev
+
 ```
